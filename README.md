@@ -1,5 +1,5 @@
 <h1>HiAce by ivansonkevin</h1>
-This keyboard was inspired by the "V4n4g0n" by TheVan Keyboards and aims to be the best keyboard layout for gaming.
+This keyboard was inspired by the "V4n4g0n" by TheVan Keyboards.
 The layout used is a slightly modified JetVan Layout; designed due to ivansonkevin's boredom during his semester break. 
 <br></br>
 <h2>Layout</h2>
