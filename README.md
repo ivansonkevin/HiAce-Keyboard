@@ -10,8 +10,8 @@ This is the current layout of the HiAce.
 Conveniently, all keycap sizes in this layout can generally be found in most keycap kits in the market.
 <br></br>
 <h2>Raw Data</h2>
-The following is the Raw Data fro those who are willing to handwire.
-
+The following is the Raw Data for this layout for those who are willing to handwire.
+<br></br>
 [{x:1},"!\n1","@\n2","#\n3","$\n4","%\n5","Rotary"],
 [{w:1.5},"Tab","Q","W","E","R","T","Y","U","I","O","P",{w:1.5},"Backspace","Del"],
 [{w:1.75},"Fn","A","S","D","F","G","H","J","K","L",":\n;",{w:2.25},"Enter"],
