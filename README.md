@@ -6,5 +6,4 @@ The layout used is a slightly modified JetVan Layout; designed due to ivansonkev
 This is the current layout of the HiAce.
 <br></br>
 <img src="https://user-images.githubusercontent.com/106980767/172198568-734cf6fa-9570-43bc-bfd8-bcfc1a6d4485.png">
-<br></br>
 All keycap sizes in this layout can generally be found in most keycap kits
