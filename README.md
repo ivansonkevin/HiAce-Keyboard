@@ -6,4 +6,4 @@ The layout used is a slightly modified JetVan Layout; designed due to ivansonkev
 This is the current layout of the HiAce.
 <p style="text-align:center;">
   <img src= "https://user-images.githubusercontent.com/106980767/172193961-60faa26a-520f-46c9-a066-7e9ed9125517.png">
-</center>
+</p>
